@@ -1,7 +1,7 @@
 # restapi
-//command to run
+//command to run:
 go run main.go .\databaseControl.go .\httpCode.go
 
 
-//send requests to
+//send requests to:
 localhost:8080/visitorstats
